@@ -18,4 +18,5 @@ This is our shared knowledge made tangible — a living testament that communiti
 
 The following individuals have contributed their time, knowledge, and passion to make this playbook possible:
 
-* John Doe
+* Ânderson Quadros
+* Marius Darila

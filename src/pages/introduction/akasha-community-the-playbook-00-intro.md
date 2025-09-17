@@ -1,14 +1,14 @@
 ---
-id: playbook-Introduction
+id: playbook-intro
 title: Introduction
 description: Introduction
 hide_table_of_contents: true
 slug: /intro
 ---
 
-## **Introduction: Building Thriving Ethereum Communities**
+# Introduction: Building Thriving Ethereum Communities
 
-**🚧 Work in Progress \- Early Stage 🚧**
+**🚧 Work in Progress | Early Stage 🚧**
 
 What you're looking at is more than a playbook — it's the beginning of something epic we're building together. Like the communities we aim to serve, this resource grows through collective wisdom and shared experience.
 

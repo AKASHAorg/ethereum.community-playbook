@@ -1,7 +1,7 @@
 ---
-id: playbook-intro-acknowledgments
-title: Community Contributors & Acknowledgments
-description: Community Contributors & Acknowledgments
+id: acknowledgments
+title: Contributors & Acknowledgments
+description: Contributors & Acknowledgments
 hide_table_of_contents: false
 slug: /acknowledgments
 ---
@@ -18,6 +18,4 @@ This is our shared knowledge made tangible — a living testament that communiti
 
 The following individuals have contributed their time, knowledge, and passion to make this playbook possible:
 
-* Ânderson Quadros
-* Basma Alghanim
-* Marius Darila
+< CONTRIBUTORS NAMES >

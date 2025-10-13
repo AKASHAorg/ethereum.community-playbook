@@ -2,7 +2,7 @@
 id: playbook-intro-acknowledgments
 title: Community Contributors & Acknowledgments
 description: Community Contributors & Acknowledgments
-hide_table_of_contents: true
+hide_table_of_contents: false
 slug: /acknowledgments
 ---
 

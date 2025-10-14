@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # **The Ethereum Community Playbook**
 
 ---

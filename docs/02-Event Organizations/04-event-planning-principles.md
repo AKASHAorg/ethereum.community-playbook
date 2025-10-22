@@ -1,6 +1,6 @@
 ---
 id: general-event-planning
-title: 4. General Event Planning Principles
+title: General Event Planning Principles
 description: General Event Planning Principles
 hide_table_of_contents: false
 slug: /event-planning-principles

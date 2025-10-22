@@ -1,12 +1,12 @@
 ---
 id: acknowledgments
-title: Acknowledgments
+title: Contributors & Acknowledgments
 description: Contributors & Acknowledgments
 hide_table_of_contents: false
 slug: /acknowledgments
 ---
 
-# Acknowledgments
+# Contributors & Acknowledgments
 
 This playbook exists because brilliant minds chose to share their knowledge freely. What began as a vision from the AKASHA Foundation Team — who conceived this project and kick-started it — has blossomed into a collective effort spanning the global Ethereum ecosystem.
 

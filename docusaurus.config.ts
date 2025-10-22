@@ -68,7 +68,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Playbook',
         },
         {
           href: 'https://github.com/AKASHAorg/ethereum.community-playbook',
@@ -84,7 +84,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Playbook',
               to: '/docs/intro',
             },
           ],

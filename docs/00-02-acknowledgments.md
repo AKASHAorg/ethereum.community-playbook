@@ -2,6 +2,7 @@
 id: acknowledgments
 title: Acknowledgments
 description: Acknowledgments
+sidebar_position: 2
 hide_table_of_contents: false
 slug: /acknowledgments
 ---

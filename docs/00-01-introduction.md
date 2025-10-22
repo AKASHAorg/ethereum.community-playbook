@@ -2,6 +2,7 @@
 id: introduction
 title: Introduction
 description: Introduction
+sidebar_position: 1
 hide_table_of_contents: false
 slug: /intro
 ---

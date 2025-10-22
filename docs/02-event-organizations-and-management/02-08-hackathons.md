@@ -1,6 +1,6 @@
 ---
 id: hackathons
-title: Hackathons
+title: 8. Hackathons
 description: Hackathons
 hide_table_of_contents: false
 slug: /hackathons

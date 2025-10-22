@@ -1,5 +1,9 @@
 ---
-sidebar_position: 1
+id: index-tmp
+title: Temporary Index
+description: Temporary Index
+hide_table_of_contents: true
+slug: /index-tmp
 ---
 
 # **The Ethereum Community Playbook**

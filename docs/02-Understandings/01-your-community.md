@@ -1,4 +1,4 @@
 ---
-title: Legal frameworks & compliance
+title: Your Community
 hide_table_of_contents: false
 ---

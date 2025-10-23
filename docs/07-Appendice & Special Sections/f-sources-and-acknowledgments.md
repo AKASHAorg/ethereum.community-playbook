@@ -16,19 +16,13 @@ We've synthesized insights from community organizing handbooks, non-profit event
 
 ## Non-Profit Event Planning & Management
 
-**[Nonprofit Event Management Fundamentals](https://blog.charityengine.net/nonprofit-event-management)** - Complete guide for planning, execution, and follow-up of nonprofit events
-
-**[Zeffy's Nonprofit Event Planning Checklist & Guide (2025)](https://www.zeffy.com/blog/event-planning-nonprofit)** - Comprehensive free guide with downloadable checklist
-
-**[Nonprofit Hub Event Planning Checklist](https://nonprofithub.org/event-planning-checklist/)** - Free downloadable checklist covering planning to post-event details
-
-**[Firespring Nonprofit Event Planning Checklist](https://firespring.com/resources/nonprofit-event-planning-checklist)** - Printable checklist covering the "five main Ps of events" with timeline and tips
-
-**[75 Nonprofit Event Ideas by Neon One](https://neonone.com/resources/blog/nonprofit-event-ideas/)** - Comprehensive list of proven event ideas divided into six categories
-
-**[Washington State Nonprofit Handbook (2022 Edition)](https://communities-rise.org/resources/nonprofit-cbo/)** - Guidance on legal compliance and operations for nonprofits
-
-**[Free Nonprofit Event Management Guide by Vanco](https://www.vancopayments.com/non-profit/blog/nonprofit-event-management)** - Includes strategic planning and fundraising focus
+- [Nonprofit Event Management Fundamentals](https://blog.charityengine.net/nonprofit-event-management) - Complete guide for planning, execution, and follow-up of nonprofit events
+- [Zeffy's Nonprofit Event Planning Checklist & Guide (2025)](https://www.zeffy.com/blog/event-planning-nonprofit) - Comprehensive free guide with downloadable checklist
+- [Nonprofit Hub Event Planning Checklist](https://nonprofithub.org/event-planning-checklist/) - Free downloadable checklist covering planning to post-event details
+- [Firespring Nonprofit Event Planning Checklist](https://firespring.com/resources/nonprofit-event-planning-checklist)** - Printable checklist covering the "five main Ps of events" with timeline and tips
+- [75 Nonprofit Event Ideas by Neon One](https://neonone.com/resources/blog/nonprofit-event-ideas/) - Comprehensive list of proven event ideas divided into six categories
+- [Washington State Nonprofit Handbook (2022 Edition)](https://communities-rise.org/resources/nonprofit-cbo/) - Guidance on legal compliance and operations for nonprofits
+- [Free Nonprofit Event Management Guide by Vanco](https://www.vancopayments.com/non-profit/blog/nonprofit-event-management) - Includes strategic planning and fundraising focus
 
 **[Bloomerang Ultimate Nonprofit Event Planning Checklist](https://bloomerang.co/blog/nonprofit-event-planning-checklist/)** - Detailed guide for nonprofit event success
 

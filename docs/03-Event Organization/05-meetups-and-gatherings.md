@@ -1,7 +1,7 @@
 ---
 id: meetups-and-gatherings
-title: Community Meetups & Regular Gatherings
-description: Community Meetups & Regular Gatherings
+title: Meetups & Regular Gatherings
+description: Meetups & Regular Gatherings
 hide_table_of_contents: false
 slug: /meetups-and-gatherings
 ---

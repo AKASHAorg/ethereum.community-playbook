@@ -8,7 +8,7 @@ slug: /meetups-and-gatherings
 
 # **5. Community Meetups & Regular Gatherings**
 
-The heartbeat of any thriving Ethereum community isn't found in occasional conferences or annual hackathons—it lives in the steady rhythm of regular gatherings where relationships deepen, ideas cross-pollinate, and newcomers find their place. From those early Bitcoin meetups in coffee shops where strangers became collaborators, to the vibrant Ethereum community groups that now span every continent, we've witnessed how consistent, intentional gatherings transform loose networks into genuine communities.
+The core of any thriving Ethereum community isn't found in occasional conferences or annual hackathons—it lives in the steady rhythm of regular gatherings where relationships deepen, ideas cross-pollinate, and newcomers find their place. From those early Bitcoin meetups in coffee shops where strangers became collaborators, to the vibrant Ethereum community groups that now span every continent, we've witnessed how consistent, intentional gatherings transform loose networks into genuine communities.
 
 Meetups are where the abstract becomes tangible. They're where someone hears about Web3 for the first time and meets the person who'll mentor them through their first smart contract. They're where project ideas crystallize over coffee, where connections made lead to collaborations that shape the ecosystem. They're laboratories for practicing the values we preach—decentralization, inclusion, community ownership—in spaces small enough to get them right.
 
